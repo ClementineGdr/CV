@@ -1,7 +1,43 @@
-h2{
-	color: #778899;
-}
 
 h1 {
 	color: #008080;
+	font-style: italic;
+	font-family: Impact, fantasy;
 }
+
+h2 {
+	color: #778899;
+	font-style: italic;
+	font-family: Comic Sans, Comic Sans MS, cursive; 
+}
+
+h3 {
+	color: #4682B4;
+	font-style: italic;
+	
+}
+
+span {
+	font-style: italic;
+	font-weight: 600;
+}
+
+.photo {
+    bottom: -20px;
+    left: 8px;
+    position: relative;
+}
+
+.lien {
+    left: 44px;
+    position: relative;
+    bottom: -26px;
+    heigth: 100px;
+}
+
+.resume {
+    right: -97px;
+    position: relative;
+    bottom: 170px;
+}
+
