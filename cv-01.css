@@ -41,3 +41,17 @@ span {
     bottom: 170px;
 }
 
+.label {
+	display: inline-block;
+	width: 150px;
+	color: gray;
+	position: relative;
+}
+
+.champ {
+	display: inline-block;
+}
+
+.composant {
+	margin-bottom:10px;
+}
